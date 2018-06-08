@@ -3,46 +3,46 @@
 		"slider": [{
 				"headings": [
 					"Une blockchain auto-gérée,",
-					"régie par un contrat intelligent",
+					"par un unique smart-contrat",
 					"en trois dimensions"
 				],
-				"sub": "Le premier jeton qui vous paie directement en Ethereum mais aussi son application décentralisée (Dapp) la plus appréciée.(Source: Dappradar.com)",
-				"button": "Testez votre poigne"
+				"sub": "Le premier jeton qui te paie directement en Ethereum mais aussi son application décentralisée (Dapp) la plus appréciée.(Source: Dappradar.com)",
+				"button": "Teste ta poigne"
 			},
 			{
 				"headings": [
-					"Recevez une partie",
+					"Reçois une partie",
 					"De chaque frais de transaction"
 				],
 				"sub": "Un revenu basé sur le volume, un peu comme UBI, mais en plus sérieux."
 			},
 			{
 				"headings": [
-					"Minez les Petits-Joueurs",
+					"Mine les Petits-Joueurs",
 					"Pas la Blockchain"
 				],
-				"sub": "Faites nous confiance, tout vous semblera plus simple."
+				"sub": "Fais nous confiance, et tout te semblera plus simple."
 			},
 			{
 				"headings": [
-					"Partagez votre Masternode",
-					"Et constuisez votre propre Réseau"
+					"Partage ton Masternode",
+					"Et construis ton propre Réseau"
 				],
-				"sub": "Faites nous confiance, tout vous semblera plus simple."
+				"sub": "Fais nous confiance, et tout te semblera plus simple."
 			},
 			{
 				"headings": [
-					"Jouez dans un écosystème 3D",
-					"Profitez de gains multi-dimensionels"
+					"Joue dans un écosystème 3D",
+					"Profite de gains multi-dimensionels"
 				],
-				"sub": "Vous savez logiquement ce que vous perdez, c'est normal, cependant on travaille sur ce sujet."
+				"sub": "Tu sais d'avance ce que tu perds, c'est logique et normal, cependant on travaille encore sur ce point."
 			}
 		]
 	},
 	"explanation": {
 		"header": "Comment ça marche ?",
 		"lead": "Pour chaque transaction, achat ou vente, une commission de 10% de frais est appliquée.",
-		"hover": "La Preuve des Faibles Poignes(Proof of Weak Hands)",
+		"hover": "La Preuve des Mains Fébriles(Proof of Weak Hands)",
 		"bold": "Au lieu que ces frais ne sortent des échanges,<br> ils sont <i>équitablement partagés entre tous les détenteurs de jetons !</i>",
 		"more": "10% du volume total que cette cryptomonnaie génèrera, sont épargnés pour vous les stockeurs de jetons, comme une récompense en Ethereum que vous pouvez retirer quand vous le souhaitez.",
 		"bottom": "Complètement décentralisé, aucun Humain ne peut l'arrêter."
@@ -50,48 +50,48 @@
 	"details": [{
 			"title": "OPEN SOURCE",
 			"content": [
-				"Every ethereum transaction is handled by a piece of unchangable blockchain programming known as a smart-contract.",
-				"No need to fear, you're only entrusting your hard-earned ETH to <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>an algorithmic robot accountant</a></b> running on a decentralized blockchain network created by <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>a russian madman worth billions</a></b>, enforced by subsidized Chinese GPU farms that are consuming <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>an amount of electricity larger than most third-world countries</a></b>, sustaining an exchange that runs without any human involvement for as long as the ethereum network exists",
+				"Chaque transaction en Ethereum est régie par une partie d'un programme immuable sur la blockchain, appelé smart-contract.",
+				"Tu n'as rien à craindre, tes ETH dûrement gagnés sont confiés à <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>un algorithme robotique automatisé</a></b> qui fonctionne sur un réseau blockchain décentralisé crée par <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>un Russe un peu dingue et qui vaut des milliards</a></b>,  hébergés dans des fermes Chinoises de minage GPU subventionnées qui consomment <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>plus d'électricité que la plupart des pays du tiers-monde</a></b>, les échanges s'éxecutent sans intervention humaine tant que le réseau Ethereum existe",
 				"Welcome to cryptocurrency.",
-				"Your tokens are safe, or somebody would be yelling at us by now."
+				"Tes jetons sont sûrs, à moins que quelqu'un puisse nous affirmer le contraire sur le champ."
 			]
 		},
 		{
 			"title": "SMART EXCHANGE",
 			"content": [
-				"To facilitate a smooth entry into this autonomously managed volumetric-reward insanity, we've created our own decentralized exchange to allow you to trade and track your tokens automatically."
+				"Pour simplifier ce système de récompenses volumétrique totalement malsain et géré de manière autonome, nous avons créé notre propre réseau décentralisé pour te permettre d'échanger et de suivre tes jetons automatiquement."
 			],
 			"list": [
-				"Track the token's trade volume, and your projected income from exchange fees.",
-				"Laugh at all the other idiots putting ETH into this madness",
-				"Stop laughing because that's a lot of ETH",
-				"<b>Buy more</b> <i>(fomo back in)</i>"
+				"Suis le volume d'échange du jeton, ainsi que tes revenus issus des frais de changes.",
+				"Marre toi en voyant de tous ces autres idiots qui investissent leurs ETH dans ce projet loufoque",
+				"Mais ne rigole pas trop car il y a beaucoup d'ETH en jeu",
+				"<b>Investis plus</b> <i>(hérésie fomo)</i>"
 			]
 		},
 		{
-			"title": "SUPPLY = VALUE",
+			"title": "USAGE = VALEUR",
 			"content": [
-				"<b>For each token added or removed from circulation the price of the next token increases or decreases automatically</b> by a fractional amount of ETH (about .0000001 eth).",
-				"When people buy, your tokens are worth slightly more, when they sell, slightly less. The exchange handles this for you, no need to think about price!",
-				"Gotta have a little sadness every once in a while so you know when the good times come."
+				"<b>Chaque jeton ajouté ou retiré de la circulation, augmente ou diminue automatiquement le prix du jeton suivant </ b> d'une fraction d'ETH (environ .0000001 eth).",
+				"Quand les gens achètent, tes jetons valent un peu plus, quand ils vendent, un peu moins, la plateforme calcule pour toi, pas besoin de penser au prix !",
+				"Il faut parfois accepter d'être un peu triste pour mieux apprécier les bons moments à venir."
 			]
 		},
 		{
-			"title": "MINING <i>(See snek diagram)</i>",
+			"title": "MINAGE <i>(Voir le diagramme snek)</i>",
 			"content": [
-				"The Token's namesake is a feature we lovingly call the 'Proof of Weak Hands ethereum mining algorithm'",
-				"Simply put, when someone chooses to buy, sell or trade tokens, a 10% transaction fee is applied. That fee, proof of that trader's weak hands, is split across all tokens currently in circulation as a reward to those holding them. Buyers' newly-purchased tokens are added to circulation before the fee is allocated.",
-				"Anyone who holds tokens can withdraw their share of those earnings anytime, in ETH from the smart-contract pool, no fee attached.",
-				"You see that cute snek? He snatches up rewards for you on every trade, No matter what the token price does!"
+				"Le nom du jeton a été soigneusement choisi d'après sa caractéristique d'algorythme de minage d'Ethereum par 'Preuve de Mains Fébriles' (Proof of Weak Hands)",
+				"En d'autres termes, quand quelqu'un choisit d'acheter, de vendre ou d'échanger des jetons, des frais de transaction de 10% sont appliqués (preuve de la faible poigne de ses mains), et répartis sur tous les jetons actuellement en circulation comme récompense pour ceux qui en détiennent. Les jetons nouvellement achetés sont ajoutés au réseau avant la distribution de ces frais.",
+				"Quiconque détient des jetons peut retirer sa part de ces gains à tout moment, en ETH, depuis le smart-contract, sans frais.",
+				"Vous voyez comme ce snek est sympa ? Il vous offre des récompenses pour tous les échanges, peu importe le prix du jeton !"
 			]
 		},
 		{
-			"title": "STAKING",
+			"title": "AFFILIATION",
 			"content": [
-				"In addition to mining, you can stake 5 of your own tokens to create <b>the first ethereum masternodes; Ever.</b>",
-				"Owning a masternode gives you a unique link to our website that the smart contract recognizes, anyone buying into the contract via your link has 33% of all fees they would oherwise pay into the contract, directed to you instead as instant ethereum gains.",
-				"This is the <font color='009f00'>active-gains</font> component of our contract, we let you build your own network that rewards you!",
-				"Yes, our staking and mining systems are comedic jabs at cryptocurrency as a whole, they're also immensely more fun, <b>and reward in (ETH) instead of something that 'may' have value later.</b>"
+				"En plus du minage, tu peux créer (à partir de 5 jetons en ta possession) un des <b>premier 'noeud-maître' (Masternode) jamais conçu d'Ethereum</b> !",
+				"Un masternode est un lien unique vers notre site Web que le smart contract reconnaît, toute personne qui achète des jetons via ton lien te fait gagner 33% de tous les frais qu'elle investi dans le contrat, pour toi seulement et instantanément en Ethereum.",
+				"C'est la partie <font color='009f00'>récompense d'affiliation</font> de notre plateforme, on te laisse créer ton propre réseau rémunérateur !",
+				"Et oui, nos systèmes de minage et d'affilliation portent un sacré pied-de-nez aux autres cryptomonnaies dans leur ensemble, en plus d'être vachement amusant, <b>ils te récompensent en ETH plutôt qu'en quelque chose 'qui est censé' prendre de la valeur plus tard.</b>"
 			]
 		},
 		{
