@@ -11,15 +11,15 @@
 			},
 			{
 				"headings": [
-					"Reçois une partie",
+					"Reçois ta part",
 					"De chaque frais de transaction"
 				],
 				"sub": "Un revenu basé sur le volume, un peu comme UBI, mais en plus sérieux."
 			},
 			{
 				"headings": [
-					"Mine les Petits-Joueurs",
-					"Pas la Blockchain"
+					"Le Minage de ceux qui ont les mains fébriles",
+					"Et non la Blockchain"
 				],
 				"sub": "Fais nous confiance, et tout te semblera plus simple."
 			},
@@ -44,22 +44,22 @@
 		"lead": "Pour chaque transaction, achat ou vente, une commission de 10% de frais est appliquée.",
 		"hover": "La Preuve des Mains Fébriles(Proof of Weak Hands)",
 		"bold": "Au lieu que ces frais ne sortent des échanges,<br> ils sont <i>équitablement partagés entre tous les détenteurs de jetons !</i>",
-		"more": "10% du volume total que cette cryptomonnaie génèrera, sont épargnés pour vous les stockeurs de jetons, comme une récompense en Ethereum que vous pouvez retirer quand vous le souhaitez.",
-		"bottom": "Complètement décentralisé, aucun Humain ne peut l'arrêter."
+		"more": "10% du volume total que cette cryptomonnaie génère, sont épargnés pour vous les stockeurs de jetons, comme une récompense en Ethereum que vous pouvez retirer à tout moment.",
+		"bottom": "Totalement décentralisé, aucun Humain ne peut l'arrêter."
 	},
 	"details": [{
 			"title": "OPEN SOURCE",
 			"content": [
-				"Chaque transaction en Ethereum est régie par une partie d'un programme immuable sur la blockchain, appelé smart-contract.",
+				"Chaque transaction en Ethereum est controlée par une partie d'un programme immuable sur la blockchain, appelé smart-contract.",
 				"Tu n'as rien à craindre, tes ETH dûrement gagnés sont confiés à <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>un algorithme robotique automatisé</a></b> qui fonctionne sur un réseau blockchain décentralisé crée par <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>un Russe un peu dingue et qui vaut des milliards</a></b>,  hébergés dans des fermes Chinoises de minage GPU subventionnées qui consomment <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>plus d'électricité que la plupart des pays du tiers-monde</a></b>, les échanges s'éxecutent sans intervention humaine tant que le réseau Ethereum existe",
 				"Welcome to cryptocurrency.",
-				"Tes jetons sont sûrs, à moins que quelqu'un puisse nous affirmer le contraire sur le champ."
+				"Tes jetons sont sûrs, jusqu'à ce que quelqu'un puisse nous affirmer le contraire."
 			]
 		},
 		{
 			"title": "SMART EXCHANGE",
 			"content": [
-				"Pour simplifier ce système de récompenses volumétrique totalement malsain et géré de manière autonome, nous avons créé notre propre réseau décentralisé pour te permettre d'échanger et de suivre tes jetons automatiquement."
+				"Pour simplifier ce système de récompenses volumétrique complètement dingue et géré de manière autonome, nous avons créé notre propre réseau décentralisé pour te permettre d'échanger et de suivre tes jetons automatiquement."
 			],
 			"list": [
 				"Suis le volume d'échange du jeton, ainsi que tes revenus issus des frais de changes.",
@@ -95,17 +95,17 @@
 			]
 		},
 		{
-			"title": "WITHDRAW ANYTIME",
+			"title": "RETRAIT A TOUT MOMENT",
 			"content": [
-				"That Smart contract <i>(your new robo accounting buddy)</i> holds all ethereum ever put into purchasing these tokens, and <b> will gleefully give you all ethereum you are owed</b> whenever you want to withdraw , or dump your tokens. You weak handed fool.",
-				"The robot is also indifferent to the plight of man, cannot be stopped, shut down, or ended without the death of the ethereum network itself."
+				"Ce Smart contract <i>(ton nouveau pote robot-comptable)</i> il garde tout l'Ethereum dépensé dans l'achat de tes jetons, et <b> te donnera joyeusement tout l'Ethereum qui t'es dû </ b> chaque fois que tu voudras retirer, ou solder tes jetons. Parce que tu es un imbécile avec des mains fébriles.",
+				"Le robot est également indifférent au sort de l'Homme, il ne peut pas être bloqué, arrêté, ou supprimé sans la fin du réseau Ethereum lui-même."
 			]
 		},
 		{
-			"title": "<b>SPARKNOTES</b>",
+			"title": "<b>NOTES IMPORTANTES</b>",
 			"list": [{
-					"header": "Managed by a smart contract entirely",
-					"content": "No human involvement in managing the ethereum, at all. Period."
+					"header": "Entièrement automatisé par un unique smart-contract",
+					"content": "Aucune implication humaine dans la gestion de l'Ethereum, et du reste De tout temps."
 				},
 				{
 					"header": "Automatic pricing",
