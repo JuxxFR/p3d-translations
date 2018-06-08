@@ -91,58 +91,58 @@
 				"En plus du minage, tu peux créer (à partir de 5 jetons en ta possession) un des <b>premier 'noeud-maître' (Masternode) jamais conçu d'Ethereum</b> !",
 				"Un masternode est un lien unique vers notre site Web que le smart contract reconnaît, toute personne qui achète des jetons via ton lien te fait gagner 33% de tous les frais qu'elle investi dans le contrat, pour toi seulement et instantanément en Ethereum.",
 				"C'est la partie <font color='009f00'>récompense d'affiliation</font> de notre plateforme, on te laisse créer ton propre réseau rémunérateur !",
-				"Et oui, nos systèmes de minage et d'affilliation portent un sacré pied-de-nez aux autres cryptomonnaies dans leur ensemble, en plus d'être vachement amusant, <b>ils te récompensent en ETH plutôt qu'en quelque chose 'qui est censé' prendre de la valeur plus tard.</b>"
+				"Et oui, nos systèmes de minage et d'affilliation font un drôle de pied-de-nez aux autres cryptomonnaies dans leur ensemble, en plus d'être vachement amusant, <b>ils te récompensent en ETH plutôt qu'en quelque chose 'qui est censé' prendre de la valeur plus tard.</b>"
 			]
 		},
 		{
 			"title": "RETRAIT A TOUT MOMENT",
 			"content": [
-				"Ce Smart contract <i>(ton nouveau pote robot-comptable)</i> il garde tout l'Ethereum dépensé dans l'achat de tes jetons, et <b> te donnera joyeusement tout l'Ethereum qui t'es dû </ b> chaque fois que tu voudras retirer, ou solder tes jetons. Parce que tu es un imbécile avec des mains fébriles.",
-				"Le robot est également indifférent au sort de l'Homme, il ne peut pas être bloqué, arrêté, ou supprimé sans la fin du réseau Ethereum lui-même."
+				"Ce Smart contract <i>(ton nouveau pote robot-comptable)</i> garde tout l'Ethereum dépensé dans l'achat de tes jetons, et <b> te donnera joyeusement tout l'Ethereum qui t'es dû </ b> chaque fois que tu voudras retirer, ou solder tes jetons. Parce que tu es un imbécile avec des mains fébriles.",
+				"Le robot est également indifférent au êtres humains, il ne peut pas être bloqué, arrêté, ou supprimé sans la fin du réseau Ethereum lui-même."
 			]
 		},
 		{
-			"title": "<b>NOTES IMPORTANTES</b>",
+			"title": "<b>POUR RESUMER</b>",
 			"list": [{
 					"header": "Entièrement automatisé par un unique smart-contract",
-					"content": "Aucune implication humaine dans la gestion de l'Ethereum, et du reste De tout temps."
+					"content": "Aucune implication humaine dans la gestion de l'Ethereum, et du reste. En tout temps."
 				},
 				{
-					"header": "Automatic pricing",
-					"content": "Value is directly related to how many tokens exist at any time."
+					"header": "Gestion du prix automatique",
+					"content": "La valeur est systématiquement ajustée selon le nombre de jetons existants à chaque instant."
 				},
 				{
-					"header": "Volume based earning",
-					"content": "10% of all volume is taken as fees, and is automatically split out as Eth to all token holders."
+					"header": "Des gains basé sur le volume",
+					"content": "10% de toutes les quantitées sont prélevés en frais de change, et sont automatiquement distribués en Eth à tous les possesseurs de jetons."
 				},
 				{
-					"header": "Active-income Staking",
-					"content": "Masternode system allows you to recruit more and get instant ETH rewards. Plus everyone gains from the volume!"
+					"header": "Maîtrise active des affiliations",
+					"content": "Le système de Masternode te permet de recruter plus efficacement et de gagner instantanément des ETH. Plus de gains car plus de volume !"
 				},
 				{
-					"header": "Not a 'Concept' token",
-					"content": "Each token has intrinsic value, as every token is backed by the eth already in the contract <i>(try to find another crypto that does this).</i>"
+					"header": "Ce jeton n'est pas conceptuel",
+					"content": "Chaque jeton à une valeur intrinsèque, car chaque jeton est lié à l'Ethereum dans le contrat <i>(aucune autre crypto ne fait ça).</i>"
 				},
 				{
-					"header": "Serious in all the wrong ways",
-					"content": "See cute snek mascot representing your financial future."
+					"header": "Honnête et assidu même quand ça va pas",
+					"content": "Regarde notre mascotte toute mignonne, snek, qui représente l'avenir de ton capital."
 				}
 
 			]
 		}
 	],
 	"stats": {
-		"balance": "ETH IN CONTRACT",
+		"balance": "ETH DANS LE CONTRAT",
 		"transactions": "TRANSACTIONS",
-		"volume": "AVERAGE 24 HR VOLUME",
-		"memes": "MEMES/HR"
+		"volume": "VOLUME MOYEN EN 24H",
+		"memes": "NOUVELLES IDEES TORDUES/HR"
 	},
 	"cta": {
-		"top": "TRY OUR DECENTRALIZED EXCHANGE",
-		"bottom": "START NOW!"
+		"top": "ESSAIE NOTRE PLATEFORME DECENTRALISEE",
+		"bottom": "COMMENCE MAINTENANT !"
 	},
 	"points": [{
-			"title": "3D Speculation",
+			"title": "Spéculation 3D",
 			"content": "Instead of simply playing with price over time like most crypto, we've added volume to the mix. Hodl finally might be a good long-term idea. <i>(Instead of why you're down 50%)</i>"
 		},
 		{
@@ -282,37 +282,37 @@
 		}
 	],
 	"shill": {
-		"title": "Shill Kit",
-		"sub": "Just a taste, there's more on the <a href='shill-kit.html'><b>Shill Kit</b></a> page",
+		"title": "Kits promotionnels",
+		"sub": "Un avant-goût, découvre en plus sur notre page de <a href='shill-kit.html'><b>Kits promotionnels</b></a>",
 		"categories": [
-			"All",
+			"Tous",
 			"GIF",
 			"Logo",
-			"High Quality"
+			"Haute résolution"
 		]
 	},
 	"benefactors": {
-		"title": "Made possible by"
+		"title": "Rendu possible grace à"
 	},
 	"menu": [
-		"home",
-		"community",
-		"decentralized exchange",
+		"Accueil",
+		"communautés",
+		"plateforme décentralisée",
 		"wiki",
-		"shill kit"
+		"kits promotionnels"
 	],
 	"titles": {
 		"points": "Really Makes you Think",
-		"shower": "FINAL SHOWER THOUGHTS",
-		"shill" : "View All",
-		"home" : "PoWH3D: Cryptocurrency in Three Dimensions"
+		"shower": "FINALITES",
+		"shill" : "Tout voir",
+		"home" : "PoWH3D: la Cryptomonnaie en Trois Dimensions"
 	},
 	"languages":  {
-		"en": "English",
-		"de": "German"
+		"en": "Anglais",
+		"de": "Allemand"
 	},
 	"faq": {
-		"title": "ANSWERS",
+		"title": "REPONSES",
 		"answers": [
 			{
 				"title": "<i class='ion ion-help-circled left'></i>Questions?",
